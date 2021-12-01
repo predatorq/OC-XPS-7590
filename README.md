@@ -24,9 +24,11 @@ FORK FROM [Gorquan's Work](https://github.com/gorquan/OC-XPS-7590)
 
 OpenCore: **0.7.6**
 
-MacOS:  **11.4** 
+MacOS:  11.4  **11.6.1**
 
-应该支持到11.6，个人使用11.4，如果使用monterey可能需要更新[itlwm](https://github.com/OpenIntelWireless/itlwm)
+以上两个系统版本经过测试可用，其余请自行尝试。
+
+如果使用monterey可能需要更新[itlwm](https://github.com/OpenIntelWireless/itlwm)
 
 ### 配置信息
 
